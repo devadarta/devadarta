@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @devadarta
+- 👋 Hi, I’m Daniel Pedrotti
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on Free/OpenSource Projects
-- 📫 Instagram: @devadarta | e-mail: daniel.pedrotti@hotmail.com
+- 📫 Find-me on gitlab.com/devadarta , instagram.com/devadarta or linkedin.com/in/daniel-pedrotti
 
 <!---
 devadarta/devadarta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
