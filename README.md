@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on Free/OpenSource Projects
-- 📫 Find-me on gitlab.com/devadarta , instagram.com/devadarta or linkedin.com/in/daniel-pedrotti
+- 📫 Find-me on [gitlab.com/devadarta](gitlab.com/devadarta), [instagram.com/devadarta](instagram.com/devadarta) or [linkedin.com/in/daniel-pedrotti](linkedin.com/in/daniel-pedrotti)
 
 <!---
 devadarta/devadarta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
